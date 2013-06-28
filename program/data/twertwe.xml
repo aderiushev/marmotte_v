@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project> 
+  <content>
+    <set set_id="1">
+      <source object_id="1">e</source>
+      <target object_id="2">cvb</target>
+      <link link_id="1">bf</link>
+    </set>
+  </content>  
+  <meta> 
+    <name>twertwe</name>  
+    <create_time>07.06.2013 23:57:18</create_time> 
+  </meta> 
+</project>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project> 
+  <content> 
+    <set set_id="1"> 
+      <source object_id="1">с/с с основанием кратным 2</source>  
+      <target object_id="2">восьмеричная система счисления</target>  
+      <link link_id="1">класс/экземпляр</link> 
+    </set>  
+    <set set_id="2"> 
+      <source object_id="3">кодирование</source>  
+      <target object_id="4">двоичная система счисления</target>  
+      <link link_id="2">применение</link> 
+    </set>  
+    <set set_id="3"> 
+      <source object_id="5">память</source>  
+      <target object_id="6">ОЗУ</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="4"> 
+      <source object_id="7">АЛУ</source>  
+      <target object_id="8">арифметика</target>  
+      <link link_id="2">применение</link> 
+    </set>  
+    <set set_id="5"> 
+      <source object_id="9">внешняя память</source>  
+      <target object_id="10">порт</target>  
+      <link link_id="4">реализация</link> 
+    </set>  
+    <set set_id="6"> 
+      <source object_id="11">процессор</source>  
+      <target object_id="12">разрядность</target>  
+      <link link_id="5">характеристика</link> 
+    </set>  
+    <set set_id="7"> 
+      <source object_id="13">система счисления</source>  
+      <target object_id="14">десятичная система счисления</target>  
+      <link link_id="1">класс/экземпляр</link> 
+    </set>  
+    <set set_id="8"> 
+      <source object_id="13">система счисления</source>  
+      <target object_id="15">шестнадцатеричная система счисления</target>  
+      <link link_id="1">класс/экземпляр</link> 
+    </set>  
+    <set set_id="9"> 
+      <source object_id="16">алгебра логики</source>  
+      <target object_id="17">элемент И</target>  
+      <link link_id="6">класс/подкласс</link> 
+    </set>  
+    <set set_id="10"> 
+      <source object_id="18">компьютер</source>  
+      <target object_id="19">устройства ввода</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="11"> 
+      <source object_id="18">компьютер</source>  
+      <target object_id="6">ОЗУ</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="12"> 
+      <source object_id="18">компьютер</source>  
+      <target object_id="9">внешняя память</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="13"> 
+      <source object_id="18">компьютер</source>  
+      <target object_id="20">контроллер</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="14"> 
+      <source object_id="21">начальная загрузка</source>  
+      <target object_id="22">ROM BIOS</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="15"> 
+      <source object_id="23">условный переход</source>  
+      <target object_id="24">адрес</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="16"> 
+      <source object_id="25">шина</source>  
+      <target object_id="19">устройства ввода</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="17"> 
+      <source object_id="25">шина</source>  
+      <target object_id="6">ОЗУ</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="18"> 
+      <source object_id="26">методы адресации</source>  
+      <target object_id="27">косвенная адресация</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="19"> 
+      <source object_id="28">интерфейс</source>  
+      <target object_id="19">устройства ввода</target>  
+      <link link_id="6">класс/подкласс</link> 
+    </set>  
+    <set set_id="20"> 
+      <source object_id="5">память</source>  
+      <target object_id="29">байт</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="21"> 
+      <source object_id="6">ОЗУ</source>  
+      <target object_id="30">принцип хранимой программы</target>  
+      <link link_id="7">смысловая связь</link> 
+    </set>  
+    <set set_id="22"> 
+      <source object_id="31">взаимодействие блоков</source>  
+      <target object_id="25">шина</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="23"> 
+      <source object_id="7">АЛУ</source>  
+      <target object_id="32">логическая операция</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="24"> 
+      <source object_id="32">логическая операция</source>  
+      <target object_id="33">элемент НЕ</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="25"> 
+      <source object_id="5">память</source>  
+      <target object_id="34">кэш-память</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="26"> 
+      <source object_id="35">регистр</source>  
+      <target object_id="36">регистр признаков (флагов)</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="27"> 
+      <source object_id="35">регистр</source>  
+      <target object_id="37">сумматор</target>  
+      <link link_id="2">применение</link> 
+    </set>  
+    <set set_id="28"> 
+      <source object_id="38">теоретические основы</source>  
+      <target object_id="39">основной алгоритм</target>  
+      <link link_id="6">класс/подкласс</link> 
+    </set>  
+    <set set_id="29"> 
+      <source object_id="40">базовые принципы</source>  
+      <target object_id="39">основной алгоритм</target>  
+      <link link_id="6">класс/подкласс</link> 
+    </set>  
+    <set set_id="30"> 
+      <source object_id="41">переход</source>  
+      <target object_id="23">условный переход</target>  
+      <link link_id="6">класс/подкласс</link> 
+    </set>  
+    <set set_id="31"> 
+      <source object_id="42">test1</source>  
+      <target object_id="3">кодирование</target>  
+      <link link_id="4">реализация</link> 
+    </set>  
+    <set set_id="32"> 
+      <source object_id="43">test2</source>  
+      <target object_id="42">test1</target>  
+      <link link_id="3">целое/часть</link> 
+    </set>  
+    <set set_id="33">
+      <source object_id="22">ROM BIOS</source>
+      <target object_id="6">ОЗУ</target>
+      <link link_id="4">реализация</link>
+    </set>
+  </content>  
+  <meta> 
+    <name>test2</name>  
+    <create_time>02.05.2013 12:39:39</create_time> 
+  </meta> 
+</project>
