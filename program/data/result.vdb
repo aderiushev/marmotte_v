@@ -1,0 +1,4 @@
+{ i:1, dic_hardware-1:5, dic_connections-conn:1, dic_hardware-2:1 }
+{ i:2, dic_hardware-1:5, dic_connections-conn:1, dic_hardware-2:2 }
+{ i:3, dic_hardware-1:5, dic_connections-conn:1, dic_hardware-2:3 }
+{ i:4, dic_hardware-1:5, dic_connections-conn:1, dic_hardware-2:4 }

@@ -1,0 +1,5 @@
+{ i:1, name:"Processor" }
+{ i:2, name:"Memory" }
+{ i:3, name:"Input Device" }
+{ i:4, name:"Output Device" }
+{ i:5, name:"Function unit" }
